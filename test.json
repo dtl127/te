@@ -1,11 +1,11 @@
 {
-  "language": "Latina",
+  "language": "Latin",
   "startmenu.new_game": "LŪDUS NOVUS",
   "startmenu.multiplayer": "LŪSŌRĒS MULTĪ",
-  "startmenu.resume_game": "RESŪMITIS LŪDUM",
+  "startmenu.resume_game": "PREMITŌ UT RESŪMERIS",
   "startmenu.settings": "OPTIŌNĒS",
   "startmenu.high_score": "SUMMUS NUMERUS",
-  "startmenu.throne_room": "THRONĪ AULA",
+  "startmenu.throne_room": "AULA THRONĪ",
   "startmenu.about": "DĒSCRĪPTIŌ",
 
   "news.title": "POLYTOPIA NEWS",
